@@ -1,0 +1,46 @@
+{
+    "about": {
+        "aboutImage": "https://res.cloudinary.com/dfaw271y6/image/upload/v1706154546/DMD_website/chairman_mapl2_wftdxs.jpg",
+        "aboutAlt": "Mr. Mostafa Akhter Mohiuddin",
+        "aboutTitle": "Biography",
+        "biography": [
+            "As a successful businessman, Mr. Mostafa Jarif Mohiuddin has made a name for himself in the fashion industry and continues to be a key figure in the family business. His vision and drive have helped to expand the operations of Khoshroz Kitab Mahal and NDC Auto Brick, while also establishing new ventures in the fashion industry and agriculture sector.",
+            "His role as the chairman of Magura Agriculture Park Ltd and Dream International further highlights his commitment to promoting sustainability and providing fresh, organic products to the people of Bangladesh.",
+            "Through his hard work and dedication, Mr. Mostafa Jarif Mohiuddin is making a positive impact on the community and helping to build a better future for Bangladesh."
+        ]
+    },
+    "brands": {
+        "brandLogos": [
+            {
+                "logo": "https://res.cloudinary.com/dfaw271y6/image/upload/v1706095347/logos/uyf1pglq390hzxt9hd7m.png",
+                "alt": "Khoshroz Kitab Mahal",
+                "url": "https://www.khoshrozltd.com/"
+            },
+            {
+                "logo": "https://res.cloudinary.com/dfaw271y6/image/upload/v1706095347/logos/htk2e053ncnq2wlrrsnw.png",
+                "alt": "Magura Agriculture Park Limited",
+                "url": "https://maguraagriculture.com/"
+            },
+            {
+                "logo": "https://res.cloudinary.com/dfaw271y6/image/upload/v1706095346/logos/ou7ch1vlbrwngsngnest.png",
+                "alt": "Dream International Limited",
+                "url": "https://www.dreaminternationallimited.com/"
+            },
+            {
+                "logo": "https://res.cloudinary.com/dfaw271y6/image/upload/v1706095346/logos/zxkihhuixb6jjqdcyz5x.png",
+                "alt": "E-Stylze e-commerce",
+                "url": "https://www.estylzefashion.com/"
+            },
+            {
+                "logo": "https://res.cloudinary.com/dfaw271y6/image/upload/v1706095347/logos/kumlejxzmmgiif9znjge.png",
+                "alt": "National Development Company Limited",
+                "url": "https://www.ndcautobrick.com/"
+            },
+            {
+                "logo": "https://res.cloudinary.com/dfaw271y6/image/upload/v1706095347/logos/fmiafw7diltwfrwsafvz.png",
+                "alt": "Jatiya Mudran",
+                "url": "https://www.jatiyamudran.com/"
+            }
+        ]
+    }
+}
