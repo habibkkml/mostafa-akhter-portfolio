@@ -28,24 +28,16 @@ const Companies = () => {
     if (loading) { return <Loading /> }
     const { company } = data;
     const seoProps = {
-        title: 'Companies | Mostafa Mohiuddin',
-        description: "It was through Mostafa’s work at his grandfather’s publishing company during the summers that he discovered his love for the paper industry and assumed a full-time job as Deputy Managing Director. Mostafa says he owes most of his business acumen to his grandfather, who gave him his foundational training. This knowledge, paired with his love of nature, inspired Mostafa to open a business with his brother in 2021: Magura Agriculture Park Limited. This organic agriculture farm allows a one-stop solution for people to reach farmers and fresh products with ease.",
-        name: "homeContent.title",
+        title: 'Companies | Mostafa Akhter',
+        description: "As a successful businessman, Mr. Mostafa Jarif Mohiuddin has made a name for himself in the fashion industry and continues to be a key figure in the family business. His vision and drive have helped to expand the operations of Khoshroz Kitab Mahal and NDC Auto Brick, while also establishing new ventures in the fashion industry and agriculture sector.",
+        name: "Mostafa Akhter",
         type: 'website',
-        image: 'https://res.cloudinary.com/dfaw271y6/image/upload/v1705831588/DMD_website/DMD_photo1_hsmn2l.jpg',
+        image: 'https://res.cloudinary.com/dfaw271y6/image/upload/v1706154545/DMD_website/chairman_mapl_up58li.jpg',
         socialLinks: [
             {
                 icon: 'brands-facebook',
-                link: 'https://www.facebook.com/mostafajmohiuddin/',
-            },
-            {
-                icon: 'brands-linkedin',
-                link: 'https://bd.linkedin.com/in/mostafajafirmohiuddin',
-            },
-            {
-                icon: 'brands-youtube',
-                link: 'https://www.youtube.com/@khoshrozkitabmahalltd',
-            },
+                link: 'https://www.facebook.com/profile.php?id=100088074433903',
+            }
         ],
     };
     return (

@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom';
-// import useDataFetching from '../Hooks/useDataFetching';
 import About from '../components/About';
 import { SEO } from '../components/SEO';
 import { useEffect, useState } from 'react';
