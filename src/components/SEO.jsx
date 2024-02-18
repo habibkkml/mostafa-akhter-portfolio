@@ -2,7 +2,7 @@
 
 import { Helmet } from "react-helmet-async";
 
-export const SEO = ({ title, description, name, type, image, socialLinks }) => {
+export const SEO = ({ title, description, name, type, image, socialLinks, tags }) => {
     return (
         <Helmet>
             {/* Standard metadata tags */}
@@ -14,6 +14,7 @@ export const SEO = ({ title, description, name, type, image, socialLinks }) => {
             <meta property="og:type" content={type} />
             <meta property="og:title" content={title} />
             <meta property="og:description" content={description} />
+            <meta name="keywords" content={tags}></meta>
             {image && <meta property="og:image" content={image} />}
             {/* End Facebook tags */}
 

@@ -1,4 +1,19 @@
 User-agent: *
-Disallow:
-
-Sitemap: https://www.mostafamohiuddin.com/sitemap.xml
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /search/
+Disallow: /cgi-bin/
+Disallow: /wp-json/
+Disallow: /?*
+Disallow: /*?
+Allow: /
+Allow: /sitemap.xml
+Allow: /static/
+Allow: /assets/
+Allow: /service-worker.js
+Allow: /manifest.json
+Allow: /favicon.ico
+Allow: /index.html

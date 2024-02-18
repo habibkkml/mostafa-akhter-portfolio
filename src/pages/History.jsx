@@ -29,8 +29,30 @@ const About = () => {
     const history = data?.history;
     const seoProps = {
         title: 'History of | Mostafa Akhter',
-        description: "As a successful businessman, Mr. Mostafa Jarif Mohiuddin has made a name for himself in the fashion industry and continues to be a key figure in the family business. His vision and drive have helped to expand the operations of Khoshroz Kitab Mahal and NDC Auto Brick, while also establishing new ventures in the fashion industry and agriculture sector.",
-        name: "Mostafa Akhter Mohiuddin",
+        description: "Meet Mostafa Jarif Mohiuddin, a visionary in fashion & business. Leading Khoshroz Kitab Mahal & NDC Auto Brick, he's shaping industries.",
+        tags: [
+            "Mostafa Jamal Mohiuddin",
+            "Managing Director",
+            "Khoshroz Kitab Mahal",
+            "Magura Group",
+            "NDC Auto Brick",
+            "Magura Paper Mills Ltd",
+            "Bangladesh Monospool Paper Manufacturing Company Ltd",
+            "Paper Processing & Packaging Ltd",
+            "Jatiya Mudran",
+            "Business Leader",
+            "Entrepreneurship",
+            "Leadership Skills",
+            "Business Acumen",
+            "Community Involvement",
+            "Bangladesh Business",
+            "Leadership Excellence",
+            "Visionary Leader",
+            "Corporate Management",
+            "Bangladesh Economy",
+            "Business Ventures",
+            "Community Impact"
+        ],
         type: 'website',
         image: 'https://res.cloudinary.com/dfaw271y6/image/upload/v1706154545/DMD_website/chairman_mapl_up58li.jpg',
         socialLinks: [
