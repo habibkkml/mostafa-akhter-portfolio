@@ -35,8 +35,31 @@ const Home = () => {
     const homeContent = data?.homeContent;
     const seoProps = {
         title: 'Home | Mostafa Akhter',
-        description: homeContent?.desc,
+        description: "Meet Mostafa Jarif Mohiuddin, a visionary in fashion & business. Leading Khoshroz Kitab Mahal & NDC Auto Brick, he's shaping industries.",
         name: homeContent?.title,
+        tags: [
+            "Mostafa Jamal Mohiuddin",
+            "Managing Director",
+            "Khoshroz Kitab Mahal",
+            "Magura Group",
+            "NDC Auto Brick",
+            "Magura Paper Mills Ltd",
+            "Bangladesh Monospool Paper Manufacturing Company Ltd",
+            "Paper Processing & Packaging Ltd",
+            "Jatiya Mudran",
+            "Business Leader",
+            "Entrepreneurship",
+            "Leadership Skills",
+            "Business Acumen",
+            "Community Involvement",
+            "Bangladesh Business",
+            "Leadership Excellence",
+            "Visionary Leader",
+            "Corporate Management",
+            "Bangladesh Economy",
+            "Business Ventures",
+            "Community Impact"
+        ],
         type: 'website',
         image: homeContent?.homeImage,
         socialLinks: [
