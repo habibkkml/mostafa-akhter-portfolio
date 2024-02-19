@@ -45,9 +45,7 @@ const About = () => {
             <SEO {...seoProps} />
             <section className="history">
                 {history?.map((item, index) => (
-
                     <div className="history__content" key={index}>
-
                         <div className="history__image">
                             <img src={item.image} alt={item.name} />
                         </div>
